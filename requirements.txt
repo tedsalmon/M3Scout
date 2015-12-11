@@ -1,0 +1,5 @@
+bottle
+jinja2
+sqlalchemy
+requests
+beautifulsoup4
